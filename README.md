@@ -1,4 +1,4 @@
-# Figure
+# [Figure](https://fintechnju.github.io/Figure/)
 
 ### 摄影地点
 
