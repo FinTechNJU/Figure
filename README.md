@@ -24,3 +24,5 @@
 |问题列表|
 |---|
 |[如何修改文件](https://www.bilibili.com/read/preview/6446314)|
+|[查看摄影师空余时间](https://github.com/FinTechNJU/Figure/issues/13)|
+|[查看拍摄地点和拍摄风格](https://github.com/FinTechNJU/Figure/issues)|
